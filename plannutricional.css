@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+  }
+  
+  body {
+    
+    
+    background-size: 100%;
+    background-image: url(https://wp-test-dev.s3.amazonaws.com/public/uploads/2020/11/Motivation-2.jpg);
+
+}
+section{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+    background-position: center center;
+    background-size: cover;
+
+
+
+}
+.color-acento{
+
+color: blueviolet
+
+}
